@@ -2,7 +2,8 @@
 
 Official implementation accompanying the paper:
 
-**Predicting Academic Success with Graph Neural Networks**
+**Academic Trajectory Graphs for Temporal Modelling of Student Academic Progression
+**
 
 ------------------------------------------------------------------------
 

@@ -112,9 +112,19 @@ guidance.
 If you use this repository in your research, please cite the associated
 paper:
 
-    @article{ATG2026,
-    ...
-    }
+@article{AliAhmed2026ATG,
+  author       = {Ali Ahmed, Ghaidaa and {\'A}vila-Jim{\'e}nez, Jos{\'e} Luis and Al-Twijri, Mohammed Ibrahim and Ventura, Sebasti{\'a}n},
+  title        = {Academic Trajectory Graphs for Temporal Modelling of Student Academic Progression},
+  journal      = {Applied Sciences},
+  year         = {2026},
+  volume       = {16},
+  number       = {11},
+  pages        = {5642},
+  doi          = {10.3390/app16115642},
+  publisher    = {MDPI},
+  note         = {Published 4 June 2026},
+  howpublished = {\url{https://doi.org/10.3390/app16115642}}
+}
 
 ------------------------------------------------------------------------
 
